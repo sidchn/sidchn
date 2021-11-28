@@ -6,7 +6,7 @@ https://sidchn.github.io
 - 💬 Ask me anything about Cyber Security and Penetration Testing.
 - 🔭 I’m currently working on Application Security and HackTheBox.
 - 👯 I’m looking to collaborate on Vulnerability Research and Exploit Development.
-- 🌱 I’m currently learning Python Scripting, Spring boot and Django frameworks.
+- 🌱 I’m currently learning Python Scripting, Development using Spring boot and Django.
 - 📫 How to reach me: Contact me via Twitter @siddhant__20
  
 
