@@ -3,11 +3,11 @@
 ### My Blog : 
 https://sidchn.github.io
 
-- 💬 Ask me anything about Cyber Security and Penetration Testing.
-- 🔭 I’m currently working on Application Security and HackTheBox.
+- 💬 Ask me anything about Cyber Security.
+- 🔭 I’m currently working on Product Security.
 - 👯 I’m looking to collaborate on Vulnerability Research and Exploit Development.
-- 🌱 I’m currently learning Python Scripting, Development using Spring boot and Django.
-- 📫 How to reach me: Contact me via Twitter @siddhant__20
+- 🌱 I’m currently learning Python Scripting, Web Development using Spring boot and Django.
+- 📫 How to reach me: Contact me via Twitter @siddhantc_
  
 
 <!--
