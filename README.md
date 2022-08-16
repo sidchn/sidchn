@@ -6,7 +6,7 @@ https://sidchn.github.io
 - 💬 Ask me anything about Cyber Security.
 - 🔭 I’m currently working on Secure Code Review and Threat Modeling.
 - 👯 I’m looking to collaborate on Vulnerability Research and Exploit Development.
-- 🌱 I’m currently learning Python Scripting, Web Development using Spring boot and Django.
+- 🌱 I’m currently learning k8s security.
 - 📫 How to reach me: Contact me via Twitter @siddhantc_
  
 
